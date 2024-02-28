@@ -10,6 +10,6 @@ There are several tests available. Run either of the below commands to run the
 test suite for the parser and lexer, respectively:
 
 ```sh
-go run ./parser
-go run ./lexer
+go test ./parser
+go test ./lexer
 ```
