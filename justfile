@@ -1,0 +1,2 @@
+lexer:
+  go test ./lexer
